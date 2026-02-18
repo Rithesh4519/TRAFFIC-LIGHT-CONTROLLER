@@ -82,7 +82,7 @@ Functional simulation performed in Vivado Simulator:
 5. Run behavioral simulation
 
 
-## 📈 Learning Outcomes
+##  Learning Outcomes
 - FSM-based hardware design
 - Timer implementation using counters
 - Priority-based digital system design
