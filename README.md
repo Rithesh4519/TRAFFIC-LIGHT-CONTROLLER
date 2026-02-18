@@ -36,7 +36,7 @@ State transitions are controlled using:
 - Emergency input signal
 
 
-## 🚑 Emergency Priority Logic
+## Emergency Priority Logic
 When the emergency signal is HIGH:
 - The system immediately switches to EMERGENCY state
 - Main road is forced to GREEN
